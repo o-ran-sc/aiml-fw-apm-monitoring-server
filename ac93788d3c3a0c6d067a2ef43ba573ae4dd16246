@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c8f749f_371c41d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000402
+      },
+      "writtenOn": "2024-10-16T23:05:32Z",
+      "side": 1,
+      "message": "API used in monitoring server seems to be well expressed.",
+      "revId": "ac93788d3c3a0c6d067a2ef43ba573ae4dd16246",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53"
+    }
+  ]
+}
